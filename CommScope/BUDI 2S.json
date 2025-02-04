@@ -1,0 +1,46 @@
+{
+  "terminalEquipments": [
+    {
+      "name": "BUDI-2S splidseboks 6 stk. SE bakker med 12 søm",
+      "category": "SpliceClosure",
+      "shortName": "BUDI-2S",
+      "description": null,
+      "manufacturers": [
+        "CommScope"
+      ],
+      "isRackEquipment": false,
+      "heightInRackUnits": 0,
+      "isFixed": false,
+      "isAddressable": false,
+      "isCustomerTermination": false,
+      "isLineTermination": false,
+      "deprecated": false,
+      "structures": [
+        {
+          "position": 1,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        },
+        {
+          "position": 2,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        },
+        {
+          "position": 3,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        },
+        {
+          "position": 4,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        },
+        {
+          "position": 5,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        },
+        {
+          "position": 6,
+          "refName": "Bred SE splidsebakke 12 Søm"
+        }
+      ]
+    }
+  ]
+}
