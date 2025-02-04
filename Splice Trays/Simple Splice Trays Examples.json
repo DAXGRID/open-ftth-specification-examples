@@ -1,0 +1,110 @@
+{
+  "terminalStructures": [
+    {
+      "name": "Small SC splidsebakke 12 Søm",
+      "category": "SpliceTray",
+      "shortName": "SC Bakke",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "1",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "2",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "3",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "4",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "5",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "6",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "7",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "8",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "9",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "10",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "11",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "12",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": null,
+          "internalConnectivityNode": null
+        }
+      ],
+      "deprecated": false
+    }
+  ]
+}
