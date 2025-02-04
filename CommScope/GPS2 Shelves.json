@@ -1,0 +1,357 @@
+{
+  "terminalEquipments": [
+    {
+      "name": "Patch/splidse GPS2 19\" 72 x SC/APC",
+      "category": "Subrack",
+      "shortName": "GPS2-72",
+      "description": null,
+      "manufacturers": [
+        "CommScope"
+      ],
+      "isRackEquipment": true,
+      "heightInRackUnits": 3,
+      "isFixed": false,
+      "isAddressable": false,
+      "isCustomerTermination": false,
+      "isLineTermination": false,
+      "deprecated": false,
+      "structures": [
+        {
+          "position": 1,
+          "refName": "GPS2 12 x SC/APC"
+        },
+        {
+          "position": 2,
+          "refName": "GPS2 12 x SC/APC"
+        },
+        {
+          "position": 3,
+          "refName": "GPS2 12 x SC/APC"
+        },
+        {
+          "position": 4,
+          "refName": "GPS2 12 x SC/APC"
+        },
+        {
+          "position": 5,
+          "refName": "GPS2 12 x SC/APC"
+        },
+        {
+          "position": 6,
+          "refName": "GPS2 12 x SC/APC"
+        }
+      ]
+    }
+  ],
+
+  "terminalStructures": [
+    {
+      "name": "GPS2 12 x SC/APC",
+      "category": "SplicePatchTray",
+      "shortName": "GPS2 12xSC/APC",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "1",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "2",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "3",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "4",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "5",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "6",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "7",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "8",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "9",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "10",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "11",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "12",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "SC/APC",
+          "internalConnectivityNode": null
+        }
+      ],
+      "deprecated": false
+    },
+    {
+      "name": "GPS2 24 x LC/APC",
+      "category": "SplicePatchTray",
+      "shortName": "GPS2 24xLC/APC",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "1",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "2",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "3",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "4",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "5",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "6",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "7",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "8",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "9",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "10",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "11",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "12",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "13",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "14",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "15",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "16",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "17",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "18",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "19",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "20",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "21",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "22",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "23",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        },
+        {
+          "name": "24",
+          "direction": "BI",
+          "isPigtail": false,
+          "isSplice": true,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": null
+        }
+      ],
+      "deprecated": false
+    }
+  ]
+}
