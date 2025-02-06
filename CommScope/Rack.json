@@ -1,0 +1,11 @@
+{
+  "racks": [
+    {
+      "name": "CommScope ETSI Rack",
+      "category": null,
+      "shortName": "ETSI",
+      "description": null,
+      "deprecated": false
+    }
+  ]
+}

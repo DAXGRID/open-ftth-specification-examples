@@ -1,0 +1,121 @@
+{
+  "spanStructures": [
+    {
+      "spanClassType": "FiberCable",
+      "name": "BlackFiberCableJacket",
+      "color": "Black",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "BlueFiber",
+      "color": "Blue",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "OrangeFiber",
+      "color": "Orange",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "GreenFiber",
+      "color": "Green",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "BrownFiber",
+      "color": "Brown",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "GreyFiber",
+      "color": "Grey",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "WhiteFiber",
+      "color": "White",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "RedFiber",
+      "color": "Red",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "BlackFiber",
+      "color": "Black",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "YellowFiber",
+      "color": "Yellow",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "VioletFiber",
+      "color": "Violet",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "RoseFiber",
+      "color": "Rose",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    },
+    {
+      "spanClassType": "FiberCable",
+      "name": "TurquoiseFiber",
+      "color": "Turquoise",
+      "innerDiameter": 0,
+      "outerDiameter": 0,
+      "deprecated": false,
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "spanEquipments": [
+    {
+      "category": "FiberCable",
+      "name": "24 Fiber std",
+      "deprecated": false,
+      "isFixed": true,
+      "isMultiLevel": true,
+      "description": "24 Fiber with standard colors",
+      "manufacturers": [
+        "Emtelle"
+      ],
+      "isCable": true,
+      "outerStructure": {
+        "level": 1,
+        "position": 1,
+        "refName": "BlackFiberCableJacket",
+        "children": [
+          {
+            "level": 2,
+            "position": 1,
+            "refName": "BlueFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 2,
+            "refName": "OrangeFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 3,
+            "refName": "GreenFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 4,
+            "refName": "BrownFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 5,
+            "refName": "GreyFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 6,
+            "refName": "WhiteFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 7,
+            "refName": "RedFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 8,
+            "refName": "BlackFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 9,
+            "refName": "YellowFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 10,
+            "refName": "VioletFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 11,
+            "refName": "RoseFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 12,
+            "refName": "TurquoiseFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 13,
+            "refName": "BlueFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 14,
+            "refName": "OrangeFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 15,
+            "refName": "GreenFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 16,
+            "refName": "BrownFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 17,
+            "refName": "GreyFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 18,
+            "refName": "WhiteFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 19,
+            "refName": "RedFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 20,
+            "refName": "BlackFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 21,
+            "refName": "YellowFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 22,
+            "refName": "VioletFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 23,
+            "refName": "RoseFiber",
+            "children": null
+          },
+          {
+            "level": 2,
+            "position": 24,
+            "refName": "TurquoiseFiber",
+            "children": null
+          }
+        ]
+      }
+    }
+  ]
+}
