@@ -11,6 +11,16 @@
         "Emtelle"
       ],
       "isCable": true,
+      "cableTubes": [
+        {
+          "position": 1,
+          "color": "RD"
+        },
+        {
+          "position": 2,
+          "color": "BL"
+        }
+      ],
       "outerStructure": {
         "level": 1,
         "position": 1,
