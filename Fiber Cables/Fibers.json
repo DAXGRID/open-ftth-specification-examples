@@ -12,7 +12,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "BlueFiber",
-      "color": "Blue",
+      "color": "BL",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -21,7 +21,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "OrangeFiber",
-      "color": "Orange",
+      "color": "OR",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -30,7 +30,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "GreenFiber",
-      "color": "Green",
+      "color": "GR",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -39,7 +39,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "BrownFiber",
-      "color": "Brown",
+      "color": "BR",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -48,7 +48,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "GreyFiber",
-      "color": "Grey",
+      "color": "SL",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -57,7 +57,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "WhiteFiber",
-      "color": "White",
+      "color": "WH",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -66,7 +66,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "RedFiber",
-      "color": "Red",
+      "color": "RD",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -75,7 +75,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "BlackFiber",
-      "color": "Black",
+      "color": "BK",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -84,7 +84,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "YellowFiber",
-      "color": "Yellow",
+      "color": "YL",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -93,7 +93,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "VioletFiber",
-      "color": "Violet",
+      "color": "VI",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -102,7 +102,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "RoseFiber",
-      "color": "Rose",
+      "color": "PK",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
@@ -111,7 +111,7 @@
     {
       "spanClassType": "FiberCable",
       "name": "TurquoiseFiber",
-      "color": "Turquoise",
+      "color": "TQ",
       "innerDiameter": 0,
       "outerDiameter": 0,
       "deprecated": false,
