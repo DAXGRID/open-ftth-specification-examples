@@ -1,0 +1,21 @@
+{
+  "terminalEquipments": [
+    {
+      "name": "Splitterholder HuberSuhner f 6x5 splittere",
+      "category": "Subrack",
+      "shortName": "Splitterholder LISA",
+      "description": null,
+      "manufacturers": [
+        "Huber+Suhner"
+      ],
+      "isRackEquipment": true,
+      "heightInRackUnits": 2,
+      "isFixed": false,
+      "isAddressable": false,
+      "isCustomerTermination": false,
+      "isLineTermination": false,
+      "deprecated": false,
+      "structures": []
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+"terminalStructures": [
+    {
+      "name": "Splittermodul OCM5 1:32 1,2m LC/APC",
+      "category": "Splitters",
+      "shortName": "1:32 Split",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "ind",
+          "direction": "IN",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud1",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud2",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud3",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud4",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud5",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud6",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud7",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud8",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud9",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud10",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud11",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud12",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud13",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud14",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud15",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud16",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud17",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud18",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud19",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud20",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud21",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud22",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud23",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud24",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud25",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud26",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud27",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud28",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud29",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud30",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud31",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        },
+        {
+          "name": "ud32",
+          "direction": "OUT",
+          "isPigtail": true,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl"
+        }
+      ],
+      "deprecated": false
+    }
+  ]
+}

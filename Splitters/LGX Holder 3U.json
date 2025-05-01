@@ -1,0 +1,21 @@
+{
+  "terminalEquipments": [
+    {
+      "name": "LGX Holder 3U",
+      "category": "Subrack",
+      "shortName": "LGX Holder",
+      "description": "Bæreramme for LGX 3U",
+      "manufacturers": [
+        "CommScope"
+      ],
+      "isRackEquipment": true,
+      "heightInRackUnits": 3,
+      "isFixed": false,
+      "isAddressable": false,
+      "isCustomerTermination": false,
+      "isLineTermination": false,
+      "deprecated": false,
+      "structures": []
+    }
+  ]
+}

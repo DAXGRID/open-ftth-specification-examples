@@ -1,0 +1,208 @@
+{
+  "terminalStructures": [
+    {
+      "name": "Splittermodul LGX 8 x 1:2 LC/APC",
+      "category": "Splitters",
+      "shortName": "8 x 1:2 Splitter",
+      "description": null,
+      "manufacturers": [
+        "Teleste"
+      ],
+      "terminals": [
+        {
+          "name": "IN 1",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl1"
+        },
+        {
+          "name": "OUT 1-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl1"
+        },
+        {
+          "name": "OUT 1-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl1"
+        },
+        {
+          "name": "IN 2",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl2"
+        },
+        {
+          "name": "OUT 2-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl2"
+        },
+        {
+          "name": "OUT 2-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl2"
+        },
+        {
+          "name": "IN 3",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl3"
+        },
+        {
+          "name": "OUT 3-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl3"
+        },
+        {
+          "name": "OUT 3-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl3"
+        },
+        {
+          "name": "IN 4",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl4"
+        },
+        {
+          "name": "OUT 4-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl4"
+        },
+        {
+          "name": "OUT 4-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl4"
+        },
+        {
+          "name": "IN 5",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl5"
+        },
+        {
+          "name": "OUT 5-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl5"
+        },
+        {
+          "name": "OUT 5-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl5"
+        },
+        {
+          "name": "IN 6",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl6"
+        },
+        {
+          "name": "OUT 6-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl6"
+        },
+        {
+          "name": "OUT 6-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl6"
+        },
+        {
+          "name": "IN 7",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl7"
+        },
+        {
+          "name": "OUT 7-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl7"
+        },
+        {
+          "name": "OUT 7-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl7"
+        },
+        {
+          "name": "IN 8",
+          "direction": "IN",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl8"
+        },
+        {
+          "name": "OUT 8-1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl8"
+        },
+        {
+          "name": "OUT 8-2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "LC/APC",
+          "internalConnectivityNode": "spl8"
+        }
+      ],
+      "deprecated": false
+    }
+  ]
+}
