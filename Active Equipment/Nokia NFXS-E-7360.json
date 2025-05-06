@@ -1,0 +1,242 @@
+{
+  "manufacturers": [
+    {
+      "name": "Nokia",
+      "description": null,
+      "deprecated": false
+    }
+  ],
+  "terminalEquipments": [
+    {
+      "name": "NFXS-E-7360",
+      "category": "Aktiv udstyr",
+      "shortName": "NFXS-E-7360 ISAM FX-8 shelf",
+      "description": null,
+      "manufacturers": [
+        "Nokia"
+      ],
+      "isRackEquipment": true,
+      "heightInRackUnits": 8,
+      "isFixed": false,
+      "isAddressable": false,
+      "isCustomerTermination": false,
+      "isLineTermination": true,
+      "deprecated": false,
+      "structures": []
+    }
+  ],
+  "terminalStructures": [
+    {
+      "name": "ISAM FD/FX 8port GPON Line board",
+      "category": "Udgået",
+      "shortName": "8 ports LT kort",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "3",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "4",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "5",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "6",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "7",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "8",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        }
+      ],
+      "deprecated": false
+    },
+    {
+      "name": "ISAM FD/FX 16port GPON Line board",
+      "category": "LineCards",
+      "shortName": "16 ports LT kort",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "1",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "2",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "3",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "4",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "5",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "6",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "7",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "8",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "9",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "10",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "11",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "12",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "13",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "14",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "15",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "16",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SC/UPC",
+          "internalConnectivityNode": "data"
+        }
+      ],
+      "deprecated": false
+    }
+  ]
+}
