@@ -1,0 +1,30 @@
+{
+  "terminalStructures": [
+    {
+      "name": "TX/RX Optik",
+      "category": "Interface",
+      "shortName": "TX/RX Optik",
+      "description": null,
+      "manufacturers": null,
+      "terminals": [
+        {
+          "name": "TX",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SFP+/SFP/QSFP",
+          "internalConnectivityNode": "data"
+        },
+        {
+          "name": "RX",
+          "direction": "OUT",
+          "isPigtail": false,
+          "isSplice": false,
+          "connectorType": "SFP+/SFP/QSFP",
+          "internalConnectivityNode": "data"
+        },
+      ],
+      "deprecated": false
+    }
+  ]
+}

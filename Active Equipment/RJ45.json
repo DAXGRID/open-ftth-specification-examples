@@ -1,0 +1,22 @@
+{
+"terminalStructures": [
+  {
+    "name": "RJ45",
+    "category": "Interface",
+    "shortName": "RJ45",
+    "description": null,
+    "manufacturers": null,
+    "terminals": [
+      {
+        "name": "RJ45",
+        "direction": "OUT",
+        "isPigtail": false,
+        "isSplice": false,
+        "connectorType": "RJ45",
+        "internalConnectivityNode": "data"
+      },
+    ],
+    "deprecated": false
+  }
+]
+}

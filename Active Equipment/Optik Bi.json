@@ -1,0 +1,22 @@
+{
+"terminalStructures": [
+  {
+    "name": "Bi Optik",
+    "category": "Interface",
+    "shortName": "Bi Optik",
+    "description": null,
+    "manufacturers": null,
+    "terminals": [
+      {
+        "name": "Bi",
+        "direction": "OUT",
+        "isPigtail": false,
+        "isSplice": false,
+        "connectorType": "SFP+/SFP/QSFP",
+        "internalConnectivityNode": "data"
+      },
+    ],
+    "deprecated": false
+  }
+]
+}
